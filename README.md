@@ -3,7 +3,7 @@
 This project analyzes sales data from Ferns and Petals (FNP) and presents insights using an interactive Excel dashboard.
 
 ##  Project Overview
-The analysis includes:
+The analysis includes:-
 - Total Revenue
 - Total Orders
 - Average Delivery Time
